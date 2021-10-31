@@ -1,7 +1,7 @@
 
 package exception_Handling;
 
-public class TextException {
+public class TextException6 {
     public static void main(String[] args) {
         try {
             System.out.println(sum (new int[]{1,2,3,4,5}));

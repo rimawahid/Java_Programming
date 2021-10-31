@@ -2,7 +2,7 @@ package exception_Handling;
 
 import java.util.Scanner;
 
-public class QuotientWithMethod {
+public class QuotientWithMethod3 {
 
     public static int quotient(int num1, int num2) {
         if (num2 == 0) {

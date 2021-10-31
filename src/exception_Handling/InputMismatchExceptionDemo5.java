@@ -3,7 +3,7 @@ package exception_Handling;
 import java.util.*;
 import java.util.Scanner;
 
-public class InputMismatchExceptionDemo {
+public class InputMismatchExceptionDemo5 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

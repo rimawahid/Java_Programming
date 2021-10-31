@@ -4,7 +4,7 @@ package exception_Handling;
 import java.io.File;
 import java.util.Scanner;
 
-public class ReadData {
+public class ReadData15 {
     public static void main(String[] args)throws Exception {
         File file = new File("scores.txt");
         try (Scanner input = new Scanner (file)) {

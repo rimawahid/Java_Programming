@@ -2,7 +2,7 @@ package exception_Handling;
 
 import java.util.Scanner;
 
-public class QuotientWithException {
+public class QuotientWithException4 {
 
     public static int quotient(int num1, int num2) {
         if (num2 == 0) {
