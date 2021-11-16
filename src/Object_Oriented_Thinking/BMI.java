@@ -49,8 +49,8 @@ public class BMI {
         return width;
     }
 
-    public static double getMETER_PRE_INCH() {
-        return METER_PRE_INCH;
+    public static double getFOOT_PRE_METER() {
+        return FOOT_PRE_METER;
     }
     
 }
